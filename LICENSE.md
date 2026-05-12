@@ -1,4 +1,4 @@
-# 
+# Enhance Nike Training Club for macOS with Nike Training Club for macOS smart Plugin: custom-workouts & water-intake-tracking, the #1 plugin. Includes custom-workouts and
 
 
 
